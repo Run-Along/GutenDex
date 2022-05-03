@@ -50,4 +50,4 @@ statusDescription: "Short message on success or reason upon failure"
 }
 
 
-Pleae Note: The author wanted to use serious messages on success but the API was too sassy and requested that Author use a combination of serious and sassy responses.
+Pleae Note: The author wanted to use serious messages on success but the spirit of the API requested (demanded) that Author use a combination of serious and sassy responses in honor of the great librarians who silently judge our book choices on checkout.
