@@ -49,7 +49,7 @@ statusDescription: "Short message on success or reason upon failure"
     "year_Published": 1959
 }
 
-
+## Notes
 Pleae Note: The author wanted to use serious messages on success but the spirit of the API requested (demanded) that Author use a combination of serious and sassy responses in honor of the great librarians who silently judge our book choices on checkout.
 
 Please Note: My connection string uses Server=127.0.0.9 instead of the very popular Server=127.0.0.1
