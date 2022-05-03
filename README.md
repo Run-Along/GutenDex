@@ -27,5 +27,27 @@ statusDescription: "Short message on success or reason upon failure"
 - DELETE METHODS
     - DELETE: api/Author/id
     - DELETE: api/book/id
+ 
+ ### Sample POST
+ #### POST Author
+ {
+    "authorName": "Mary",
+    "birth_Year": 1797,
+    "death_Year": 1851,
+    "books": [
+        {
+            "bookId": 37,
+            "title": "Mathilda",
+            "year_Published": 1959
+        }
+    ]
+}
+
+#### POST Book
+{
+    "title": "Drive",
+    "year_Published": 1959
+}
+
 
 Pleae Note: The author wanted to use serious messages on success but the API was too sassy and requested that Author use a combination of serious and sassy responses.
