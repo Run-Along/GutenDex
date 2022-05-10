@@ -1,6 +1,8 @@
 # GutenDex API
 
+---
 ### A Library API
+
 
 The GutenDex API is a collection of books taught in High School and College. The original intent was to create an API library of copyright free books. However, the author got carried away with compiling a collection of books that have tortured students ever since the word "literature" was invented. 
 A keen client will notice that all of these authors do fall into the copyright domain so the original intent was preservered. A keener client will notice that two of these authors were not taught in High School. But they were a source of comfort to those who liked the weirder and macabre tales. 
