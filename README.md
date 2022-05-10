@@ -1,5 +1,4 @@
 # GutenDex API
-
 ---
 ### A Library API
 
